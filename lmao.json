@@ -1,0 +1,98 @@
+[
+    {
+      "type": "hospital",
+      "city": "Delhi",
+      "name": "Apollo Hospital Delhi",
+      "rating": 4.5
+    },
+    {
+      "type": "hospital",
+      "city": "Delhi",
+      "name": "Fortis Hospital Delhi",
+      "rating": 4.2
+    },
+    {
+      "type": "hospital",
+      "city": "Delhi",
+      "name": "Max Super Specialty Hospital Delhi",
+      "rating": 4.3
+    },
+    {
+      "type": "organization",
+      "city": "Delhi",
+      "name": "Delhi Health Organization",
+      "rating": 4.0
+    },
+    {
+      "type": "hospital",
+      "city": "Chennai",
+      "name": "Apollo Hospital Chennai",
+      "rating": 4.6
+    },
+    {
+      "type": "hospital",
+      "city": "Chennai",
+      "name": "Fortis Malar Hospital Chennai",
+      "rating": 4.4
+    },
+    {
+      "type": "hospital",
+      "city": "Chennai",
+      "name": "MIOT International Hospital Chennai",
+      "rating": 4.5
+    },
+    {
+      "type": "organization",
+      "city": "Chennai",
+      "name": "Chennai Health Organization",
+      "rating": 4.1
+    },
+    {
+      "type": "hospital",
+      "city": "Mumbai",
+      "name": "Lilavati Hospital Mumbai",
+      "rating": 4.7
+    },
+    {
+      "type": "hospital",
+      "city": "Mumbai",
+      "name": "Kokilaben Dhirubhai Ambani Hospital Mumbai",
+      "rating": 4.8
+    },
+    {
+      "type": "hospital",
+      "city": "Mumbai",
+      "name": "Nanavati Super Specialty Hospital Mumbai",
+      "rating": 4.6
+    },
+    {
+      "type": "organization",
+      "city": "Mumbai",
+      "name": "Mumbai Health Organization",
+      "rating": 4.2
+    },
+    {
+      "type": "hospital",
+      "city": "Kolkata",
+      "name": "Apollo Gleneagles Hospital Kolkata",
+      "rating": 4.5
+    },
+    {
+      "type": "hospital",
+      "city": "Kolkata",
+      "name": "AMRI Hospital Kolkata",
+      "rating": 4.3
+    },
+    {
+      "type": "hospital",
+      "city": "Kolkata",
+      "name": "Fortis Hospital Kolkata",
+      "rating": 4.4
+    },
+    {
+      "type": "organization",
+      "city": "Kolkata",
+      "name": "Kolkata Health Organization",
+      "rating": 4.0
+    }
+  ]
